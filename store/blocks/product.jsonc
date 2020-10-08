@@ -37,8 +37,7 @@
   "sku-selector": {
     "props": {
       "initialSelection": "empty",
-      "name": "image",
-      "showVariationsErrorMessage": false
+      "showValueForVariation": "image"
     }
   },
   "stack-layout#brand": {
