@@ -38,7 +38,7 @@
     "props":{
       "inverted":true,
       "sticky":true,
-      "fulWidth": false
+      "fullWidth": false
     }
   },
   "header-row#main-mobile": {
