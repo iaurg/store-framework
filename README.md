@@ -1,4 +1,4 @@
-# store-framework-template
+# VTEX
 
 Pontos antes de iniciar:
 
