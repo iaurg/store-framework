@@ -82,10 +82,6 @@ Os blocos padrões da Store Framewok possuem 4 niveis de personalização:
 - Classes CSS (handles)
 - Children (children)
 
-## Flex layout
-
-Elemento para estruturação dos blocos dentro de sua loja, seguindo o conceito de linhas e colunas para alinhar elementos dentro da estrutura. Existem duas tags básicas no flexlayout: row (linha), col (coluna). Se você conhece a propriedade flexbox do CSS essa estrutura segue o mesmo conceito.
-
 ## Links
 
 Site VTEX IO: [https://vtex.io/](https://vtex.io/)
