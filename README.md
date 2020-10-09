@@ -73,7 +73,7 @@ vtex use nomedoworkspace
 
 São abstrações na Store Framework, são basicamente "pedaços" mínimos da loja para que você possa uni-lós e chegar a um resultado final. Os blocos seguem um conceito similar ao de componentes, que são abstrações que declaram um pedaço mínimo de funcionalidade para ser trabalhado.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0827e7db-5c07-4fc7-aafe-c6e72d3a843d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0827e7db-5c07-4fc7-aafe-c6e72d3a843d/Untitled.png)
+![https://user-images.githubusercontent.com/18701182/68428069-266cca80-018a-11ea-958b-818d392583a8.png](https://user-images.githubusercontent.com/18701182/68428069-266cca80-018a-11ea-958b-818d392583a8.png)
 
 Os blocos padrões da Store Framewok possuem 4 niveis de personalização:
 
