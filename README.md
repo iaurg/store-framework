@@ -90,13 +90,17 @@ Elemento para estruturação dos blocos dentro de sua loja, seguindo o conceito 
 
 Site VTEX IO: [https://vtex.io/](https://vtex.io/)
 
-Introdução VTEX IO: [https://vtex.io/docs/introduction](https://vtex.io/docs/introduction)
+Documentação VTEX IO: [https://vtex.io/docs/](https://vtex.io/docs/)
+
+Documentação 2 VTEX IO: [https://developers.vtex.com/docs/vtex_io-documentation_what-is-vtex-io](https://developers.vtex.com/docs/vtex_io-documentation_what-is-vtex-io)
 
 Releases VTEX IO: [https://vtex.io/docs/releases/](https://vtex.io/docs/releases/)
 
 Repositório da documentação: [https://github.com/vtex-apps/io-documentation](https://github.com/vtex-apps/io-documentation)
 
 Treinamento VTEX IO: [https://lab.github.com/vtex-trainings/store-framework](https://lab.github.com/vtex-trainings/store-framework)
+
+Github VTEX: [https://github.com/vtex-apps](https://github.com/vtex-apps)
 
 ## Notas:
 
