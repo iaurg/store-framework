@@ -4,6 +4,7 @@
   },
   "image#landingbanner":{
     "props":{
+      "src":"https://image.freepik.com/free-vector/fashion-store-banner-template_1361-1248.jpg",
       "minWidth":"100%"
     }
   },
