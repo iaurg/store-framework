@@ -5,9 +5,9 @@ Pontos antes de iniciar:
 - Entender do negócio
 - O que agrega valor?
 - Qual o foco final?
-- Quais as necessidades do negócio e porques?
+- Quais as necessidades do negócio e "porquês"?
 
-**Curiosidade**: O nome VTEX vem da primeira loja de roupa montada pelos fundadores que era uma Vitrine TEXtil para quem queria comprar tecidos online.
+**Curiosidade**: O nome VTEX vem da primeira loja de roupa montada pelos fundadores que era uma **V**itrine **TEX**til para quem queria comprar tecidos online.
 
 ## O que é e para que serve a VTEX?
 
@@ -29,19 +29,19 @@ A VTEX oferece toda a estrutura necessária para o desenvolvimento de uma loja v
 
 ### VTEX IO Store Framework
 
-É um conjunto de ferramentas e "blocos" para que você possa montar a estrutura de uma loja da maneira mais rápida possível utilizando React. Você pode conferir a [lista de todos os componentes](https://vtex.io/docs/components/all/).
+É um conjunto de ferramentas e "blocos" para que você possa montar a estrutura de uma loja da maneira mais rápida possível. Você pode conferir a [lista de todos os componentes](https://vtex.io/docs/components/all/) que podem ser utilizados para estruturação de uma loja.
 
-Seguindo a ideia de que várias lojas possuem muitas estruturas similares o Store Framework reúne esses componentes e abstrai cada um deles para que você possa replicar em qualquer loja. Os componentes criados na Store são responsáveis por construir a parte "frontal" da loja e usam como padrão o [JSON](http://www.json.org/json-pt.html).
+Seguindo a ideia de que várias lojas possuem muitas estruturas similares o Store Framework reúne esses componentes e abstrai cada um deles para que você possa replicar em qualquer loja. Os componentes listados na Store são responsáveis por construir a parte "frontal" da loja e usam como padrão o [JSON](http://www.json.org/json-pt.html)C (C é para identificar um json que aceita comentários).
 
 ## O que pode ser construido com o VTEX IO
 
-- Front-end personalizado da loja utilizando React e componentes.
+- Front-end personalizado da loja utilizando, blocos da VTEX, React e componentes personalizados.
 - Admin Apps, personalizações específicas para cada loja utilizando os dados disponibilizados pela VTEX, algo como "componentes personalizados próprios"
 - Back-end apps, construção de serviços desenvolvidos em Node ou .NET Core.
 - Pixels apps personalizados para coletar dados de dentro da loja.
 - Mobile Apps, para a loja estar disponivel em devices mobiles para os clientes
 
-Customizações avançadas são um poucos limitadas e precisam de permissão para serem inseridas no VTEX IO.
+* Customizações avançadas são um poucos limitadas e precisam de permissão para serem inseridas no VTEX IO.
 
 ### Básico para iniciar o desenvolvimento em VTEX IO
 
